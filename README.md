@@ -8,4 +8,4 @@ Ogni esercizio puó essere modificato in caso di:
 1. Soluzioni <b> funzionanti </b>
 2. Errori e correzioni
 
-Nel caso di modifiche, aggiungerle tramite un commento, lasciando il codice originale inalterato.
+Nel caso di modifiche, aggiungerle tramite un commento, lasciando il codice originale inalterato e utilizzando il nome delle variabili presenti nel programma.
